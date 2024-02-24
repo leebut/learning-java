@@ -1,6 +1,6 @@
 # Getters and setters
 
-Getters and setters are used with a `private` class to protect the variables so that they cannot be accessed directly.
+Getters and setters are used with `private` instance variables to protect the variables so that they cannot be accessed directly.
 
 Set the class with private instance variables.
 Save it as the class name.
