@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72876d8dcd43bc3b",
+            "id": "a5c21ac3c72cbe9e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "documentation/class_inheritance.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "documentation/class_inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "documentation/class_inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "documentation/class_inheritance.md"
+              }
             }
           }
         ]
@@ -138,35 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72876d8dcd43bc3b",
+  "active": "a5c21ac3c72cbe9e",
   "lastOpenFiles": [
-    "README.md~",
+    "documentation/classes.md",
+    "documentation/class-constructors.md",
+    "hello-world/class_inheritance/Films.java~",
+    "hello-world/class_inheritance/Films.java !",
+    "hello-world/ClassInheritance.java~",
+    "hello-world/ClassInheritance.java",
+    "documentation/class_inheritance.md",
+    "hello-world/class_inheritance/NewFilm.java~",
+    "hello-world/class_inheritance/NewFilm.java !",
+    "hello-world/NewFilm.java~",
+    "hello-world/class_inheritance/NewFilm.class",
+    "hello-world/class_inheritance/Films.class",
+    "hello-world/class_inheritance/NewFilm.java",
+    "documentation/java-docs.md",
+    "documentation/getters_setters.md",
     "README.md",
     "class_security.md",
     "documentation/string_methods.md",
     "documentation/methods (functions).md",
     "documentation/maths.md",
     "documentation/loops.md",
-    "documentation/java-docs.md",
-    "documentation/getters_setters.md",
     "documentation/data_types.md",
     "documentation/conditionals.md",
     "documentation/class_security.md",
     "documentation/class-methods.md",
-    "documentation/classes.md",
-    "documentation/class-constructors.md",
     "documentation/arrays.md",
-    "documentation",
     "classes.md",
     "getters_setters.md",
-    "hello-world/Celebration.class",
-    "hello-world/Celebration.java~",
-    "hello-world/Birthday.class",
-    "hello-world/Birthday.java~",
-    "hello-world/Celebration.java",
-    "hello-world/Birthday.java",
-    "hello-world/get-set.java~",
-    "hello-world/get-set.java",
     "java-docsOLD.md",
     "Untitled.canvas",
     "java-docs.md",
@@ -174,7 +183,6 @@
     "class-constructors.md",
     "class-methods.md",
     "conditionals.md",
-    "arrays.md",
-    "methods (functions).md"
+    "arrays.md"
   ]
 }

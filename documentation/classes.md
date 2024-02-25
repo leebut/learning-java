@@ -38,4 +38,7 @@ See [[class-constructors]].
 ## Class security
 See [[class_security]].
 
+## Class inheritance
+[[class_inheritance]]
+
 
