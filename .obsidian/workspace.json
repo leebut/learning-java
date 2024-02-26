@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentation/class_inheritance.md",
+                "file": "documentation/arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentation/class_inheritance.md",
+                "file": "documentation/arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentation/class_inheritance.md",
+                "file": "documentation/arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentation/class_inheritance.md"
+                "file": "documentation/arrays.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "a5c21ac3c72cbe9e",
   "lastOpenFiles": [
+    "hello-world/class_nesting/FilmsMain.java~",
+    "documentation/class_inheritance.md",
     "documentation/classes.md",
     "documentation/class-constructors.md",
     "hello-world/class_inheritance/Films.java~",
     "hello-world/class_inheritance/Films.java !",
     "hello-world/ClassInheritance.java~",
     "hello-world/ClassInheritance.java",
-    "documentation/class_inheritance.md",
     "hello-world/class_inheritance/NewFilm.java~",
     "hello-world/class_inheritance/NewFilm.java !",
     "hello-world/NewFilm.java~",
